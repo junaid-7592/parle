@@ -45,7 +45,7 @@ body{
 
 
 .image1{
-  background: url("/images/bgimage.jpg");
+  background: url("images/bgimage.jpg");
   background-position: center;
   background-size: cover;
   width: 100%;
